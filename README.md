@@ -10,4 +10,6 @@ I detta moment skall man skapa:
 För att klona detta repositoryt använder man sig av kommandot "git clone" ihop med länken till repositoryt,  
 dvs: git clone https://github.com/ligo2200/moment1-dt093g.git 
 
+[Besök min profil](https://github.com/ligo2200) 
+
 Text av **Linda Götenmark**, _VT 2023_
