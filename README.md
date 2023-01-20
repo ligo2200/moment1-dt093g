@@ -7,5 +7,7 @@ I detta moment skall man skapa:
 * en _README-fil_ i det nya repositoryt
 * **beskrivning** av uppgiften i _README-filen_
 
+För att klona detta repositoryt använder man sig av kommandot "git clone" ihop med länken till repositoryt,  
+dvs: git clone https://github.com/ligo2200/moment1-dt093g.git 
 
-Text av _Linda Götenmark_, **VT 2023**
+Text av **Linda Götenmark**, _VT 2023_
